@@ -69,11 +69,11 @@
     transform: translate(-50%);
 }
 #hour::after{
-    content: 'Hours';
+    content: 'HOURS';
 }
 #min::after{
-    content: 'Minutes';
+    content: 'MINUTES';
 }
 #sec::after{
-    content: 'Seconds';
+    content: 'SECONDS';
 }
